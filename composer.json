@@ -1,5 +1,5 @@
 {
-    "name":        "awatbayazidi/atbcarbon",
+    "name":        "awatbayazidi/upload",
     "description": "awatbayazidi support helpers",
     "keywords":    ["awatbayazidi"],
     "homepage":    "https://github.com/awatbayazidi/abzar",
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AwatBayazidi\\AtbCarbon\\": "src/"
+            "AwatBayazidi\\Upload\\": "src/"
         }
     },
     "minimum-stability": "stable"
